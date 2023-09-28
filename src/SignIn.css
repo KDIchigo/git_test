@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  border-box: box-sizing;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://blog.virtualmind.com/hubfs/Project_Management_BLOG_Mesa_de_trabajo_1_copia_5.jpeg");
+  background-size: cover;
+  position: relative;
+}
+
+.sign-in__body {
+  width: 200px;
+  height: 400px;
+  position: absolute;
+  left: 20%;
+  top: 200px;
+}
+
+.inputDemo {
+  background-color: #96d6b6;
+  border-radius: 6px;
+  border: none;
+}
